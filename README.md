@@ -1,4 +1,4 @@
 Standard access log parsing script
 
 Usage:
-$ php parser.php <file>
+$ php parser.php filename
